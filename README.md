@@ -1,2 +1,2 @@
 # Algorthims-Task
-inseration sort and prims algorthim with python
+Implementing some Algorithms from scratch using python and C++
